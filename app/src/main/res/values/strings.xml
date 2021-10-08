@@ -1,0 +1,73 @@
+<resources>
+    <string name="app_name">Problem 2</string>
+    <string name="electronic">Electronics</string>
+    <string name="clothes">Clothing</string>
+    <string name="beauty">Beauty</string>
+    <string name="food">Food</string>
+
+    <string name="str_electronic">Electronics</string>
+    <string name="str_clothes">Clothing</string>
+    <string name="str_beauty">Beauty</string>
+    <string name="stw">Welcome ptadesse@miu.edu</string>
+    <string name="str_food">Food</string>
+    <string-array name="electronics">
+        <item> electronics1</item>
+        <item> electronics2</item>
+        <item> electronics3</item>
+        <item> electronics4</item>
+        <item> electronics5</item>
+        <item> electronics6</item>
+        <item> electronics7</item>
+        <item> electronics8</item>
+        <item> electronics9</item>
+        <item> electronics10</item>
+
+
+
+    </string-array>
+
+    <string-array name="food">
+        <item> food1</item>
+        <item> food2</item>
+        <item> food3</item>
+        <item> food4</item>
+        <item> food5</item>
+        <item> food6</item>
+        <item> food7</item>
+        <item> food8</item>
+        <item> food9</item>
+        <item> food10</item>
+
+    </string-array>
+
+    <string-array name="clothes">
+        <item> clothes1</item>
+        <item>clothes12</item>
+        <item> clothes13</item>
+        <item> clothes14</item>
+        <item> clothes15</item>
+        <item> clothes16</item>
+        <item> clothes17</item>
+        <item> clothes18</item>
+        <item> clothes19</item>
+        <item> clothes10</item>
+
+    </string-array>
+
+    <string-array name="beauty">
+        <item> beauty1</item>
+        <item> beauty2</item>
+        <item> beauty3</item>
+        <item> beauty4</item>
+        <item> beauty5</item>
+        <item> beauty6</item>
+        <item> beauty7</item>
+        <item> beauty8</item>
+        <item> beauty9</item>
+        <item> beauty10</item>
+        <item> item11</item>
+
+    </string-array>
+
+
+</resources>
